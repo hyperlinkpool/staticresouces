@@ -1,32 +1,32 @@
 {
-    "verification":"2e1b850b757f4c7a13",
-    "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/hyperlinkpool/staticresources/master/hyperlinkpool-logo-adapools-trans-64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/hyperlinkpool/staticresources/master/hyperlinkpool-khodl-logo.png",
-        "location": "Seoul, Korea",
-        "social": {
-            "twitter_handle": "HYPERLINKPOOL",
-            "telegram_handle": "HYPERLINKPOOL",            
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": "hyperlinkpool"
-            "patreon_handle": "",
-            "linkedin_handle": "",
-            "ada_handle": ""
-        },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
-        },
-        "about": {
-            "me": "We are supported by Korea-Hodler-Community. Over 15 years software development. Experiences : Back-End Dev., Front-End Dev., SA, SE, DBA, PL, DevOps.",
-            "server": "Operation : Hybrid(Baremetal & Cloud Server)"
-        }
-    }
+	"verification": "2e1b850b757f4c7a13",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/hyperlinkpool/staticresources/master/hyperlinkpool-logo-adapools-trans-64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/hyperlinkpool/staticresources/master/hyperlinkpool-khodl-logo.png",
+		"location": "Seoul, Korea",
+		"social": {
+			"twitter_handle": "HYPERLINKPOOL",
+			"telegram_handle": "HYPERLINKPOOL",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "hyperlinkpool",
+			"patreon_handle": "",
+			"linkedin_handle": "",
+			"ada_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are supported by Korea-Hodler-Community. Over 15 years software development. Experiences : Back-End Dev., Front-End Dev., SA, SE, DBA, PL, DevOps.",
+			"server": "Operation : Hybrid(Baremetal & Cloud Server)"
+		}
+	}
 }
