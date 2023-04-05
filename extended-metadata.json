@@ -27,6 +27,6 @@
         "about": {
             "me": "We are supported by Korea-Hodler-Community. Over 15 years software development. Experiences : Back-End Dev., Front-End Dev., SA, SE, DBA, PL, DevOps.",
             "server": "Operation : Hybrid(Baremetal & Cloud Server)"
-        },
+        }
     }
 }
