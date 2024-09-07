@@ -56,9 +56,9 @@
     "doNotList": false,
     "givenName": "HyperlinkPool_SPO",
     "motivations": "I have been working as a programmer for about 20 years. And I am operating a guide blog to help anyone to want operating Cardano Stake Pool.\n\nBased on my experience, I believe I have the insight to judge whether a development direction is feasible or not. I will always maintain an objective attitude and exercise my right to vote correctly.",
-    "objectives": "I will do my best to keep in the right direction governance of Cardano. I will not waste the voting rights you have entrusted me with.",
+    "objectives": "I will do my best to keep in the right direction Cardano’s governance. I will not waste the voting rights you have entrusted me with.",
     "paymentAddress": "addr1q8khvn4w8je3t9kldy0lcgurhhqelzrj39ynekaygfnc4ap6vl4h4m2y7nwcjdsx0es8t2k5u843tcmc59udz8z7pvwsvx25pm",
-    "qualifications": "Stakepool Operator {HYPER}, Software Developer, Trouble Shooter, Technical Supporter.",
+    "qualifications": "Stakepool Operator.(a.k.a {HYPER}), Software Developer. Trouble Shooter, Technical Supporter.",
     "references": [
       {
         "@type": "Link",
@@ -68,7 +68,7 @@
       {
         "@type": "Link",
         "label": "X",
-        "uri": "https://twitter.com/HYPERLINKPOOL"
+        "uri": "https://x.com/HYPERLINKPOOL"
       },
       {
         "@type": "Link",
@@ -81,11 +81,6 @@
         "uri": "https://blog.naver.com/hyperlinkpool"
       },
       {
-        "@type": "Link",
-        "label": "Github",
-        "uri": "https://github.com/hyperlinkpool"
-      },
-      {
         "@type": "Identity",
         "label": "Pool Monitoring & Introduce Hyperlink Pool",
         "uri": "https://hyperlinkpool.kr"
@@ -93,7 +88,7 @@
       {
         "@type": "Identity",
         "label": "X",
-        "uri": "https://twitter.com/HYPERLINKPOOL"
+        "uri": "https://x.com/HYPERLINKPOOL"
       }
     ]
   }
